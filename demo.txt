@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This file is for the lesson on branching.
+=======
+testing demo file
+>>>>>>> new_demo
