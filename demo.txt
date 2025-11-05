@@ -1,2 +1,1 @@
-This file is for the lesson on branching - This is on demo_3 branch.i
->>>>>>> new_demo
+This file is for the lesson on branching - This is on demo_3 branch - 2.2
